@@ -26,7 +26,7 @@ npm install
 
 ---
 
-Before you start, make sure to visit the **Dashboard**. From the dashboard, you can create and manage your notes efficiently.
+### Before you start, make sure to visit the **Dashboard**. From the dashboard, you can create and manage your notes efficiently.
 ![SharedScreenshot](https://github.com/user-attachments/assets/d8dbc31b-e108-4ce9-9c10-1c640c3db0d3)
 ### Create a New Note
 
