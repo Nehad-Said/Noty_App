@@ -21,7 +21,7 @@ To get started with the Noty app, clone the repository and install the dependenc
 git clone https://github.com/Nehad-Said/Noty_App.git
 cd Noty_App
 npm install
-
+```
 ## How to Use the App
 
 ---
@@ -39,7 +39,11 @@ To create a new note, click the **New Note** button and enter your content. You 
 You can easily edit or delete notes by navigating to the note and clicking on the appropriate action buttons.
 ![SharedScreenshot6](https://github.com/user-attachments/assets/4cb463c1-aba5-497b-9da8-bf6175bdb447)
 ---
+### Update Notes
 
+You can easily update notes by navigating to the note and clicking on it.
+![SharedScreenshot7](https://github.com/user-attachments/assets/a585aacd-46f6-4588-80a7-dcf8fe7d4e11)
+---
 
 ### Organizing Your Notes
 
