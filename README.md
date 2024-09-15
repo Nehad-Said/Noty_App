@@ -39,11 +39,7 @@ To create a new note, click the **New Note** button and enter your content. You 
 You can easily edit or delete notes by navigating to the note and clicking on the appropriate action buttons.
 ![SharedScreenshot6](https://github.com/user-attachments/assets/4cb463c1-aba5-497b-9da8-bf6175bdb447)
 ---
-### Update Notes
 
-You can easily update notes by navigating to the note and clicking on it.
-![SharedScreenshot7](https://github.com/user-attachments/assets/a585aacd-46f6-4588-80a7-dcf8fe7d4e11)
----
 
 ### Organizing Your Notes
 
@@ -86,4 +82,4 @@ Noty allows users to register and log in to manage their personal notes securely
 
 If you have any questions or feedback, feel free to reach out at `nehadabasit@gmail.com`.
 
----
+
